@@ -1,2 +1,5 @@
 Console.WriteLine("Muhammad Sohaib Ramzan");
 Console.WriteLine("Roll Number: 24-ST-004");
+int p=900;
+int q=15;
+Console.WriteLine($"Division is: {p/q}");
