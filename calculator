@@ -1,5 +1,6 @@
 Console.WriteLine("Muhammad Sohaib Ramzan");
 Console.WriteLine("Roll Number: 24-ST-004");
+multiplication
 division
 int p=900;
 int q=15;
@@ -9,3 +10,8 @@ int x=98;
 int y=51;
 Console.WriteLine($"Multiplication is: {x*y}");
 multiplication
+
+int a=212;
+int b=36;
+Console.WriteLine($"Subtraction is: {a-b}");
+subtraction
