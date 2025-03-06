@@ -1,2 +1,5 @@
 Console.WriteLine("Muhammad Sohaib Ramzan");
 Console.WriteLine("Roll Number: 24-ST-004");
+int a=212;
+int b=36;
+Console.WriteLine($"Subtraction is: {a-b}");
