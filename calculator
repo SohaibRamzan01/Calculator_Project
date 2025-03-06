@@ -1,2 +1,5 @@
 Console.WriteLine("Muhammad Sohaib Ramzan");
 Console.WriteLine("Roll Number: 24-ST-004");
+int i=22;
+int e=56;
+Console.WriteLine($"Addition is: {i+e}");
